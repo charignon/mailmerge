@@ -1,5 +1,7 @@
 # Google apps script mail merge
 
+See [https://blog.laurentcharignon.com/post/mail-merge-in-100-lines-of-clojure/](https://blog.laurentcharignon.com/post/mail-merge-in-100-lines-of-clojure/) for more information.
+
 ## How to build
 
 ```shell
